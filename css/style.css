@@ -391,7 +391,7 @@
   overflow: hidden;
 }
 
-.pricing-plan::after {
+.pricing-plan--completed::after {
   position: absolute;
   top: 7%;
   right: -18%;
