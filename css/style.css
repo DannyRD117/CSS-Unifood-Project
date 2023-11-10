@@ -443,6 +443,12 @@
   text-align: center;
 }
 
+.plan-details {
+  font-size: 1.6rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
 .feature-icon {
   color: #cf711f;
   background-color: #fdf2e9;
